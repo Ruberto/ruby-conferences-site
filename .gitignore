@@ -1,9 +1,1 @@
-.DS_Store
-/.bundle
-/.env
-/.sass-cache
-/build
-notes.txt
-schedule.txt
-milestones.txt
-.projections.json
+_site

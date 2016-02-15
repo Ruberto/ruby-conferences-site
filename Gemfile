@@ -1,10 +1,5 @@
 source 'https://rubygems.org'
+ruby '2.3.0'
+#ruby-gemset=ruby-conferences
 
-gem 'bourbon'
-gem 'builder', '~> 3.0'
-gem 'dotenv'
-gem 'middleman'
-gem 'middleman-blog'
-gem "middleman-livereload"
-gem 'middleman-google-analytics'
-gem 'redcarpet'
+gem 'jekyll'
