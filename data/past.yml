@@ -548,7 +548,6 @@
   dates: "October 15-16, 2015"
   url: http://www.rubyconf.co/
   twitter: rubyconfco
-  reg_phrase: Registration is open
 
 - name: EuRuKo
   location: Salzburg, Austria
@@ -561,3 +560,10 @@
   dates: "October 23, 2015"
   url: http://keeprubyweird.com
   twitter: keeprubyweird
+
+- name: Rubyfuza
+  location: Cape Town, South Africa
+  dates: "February 4-5, 2016"
+  url: http://www.rubyfuza.org
+  twitter: rubyfuza
+  reg_phrase: Registration is open
